@@ -1,0 +1,9 @@
+torch==2.3.0
+sentencepiece
+tiktoken
+accelerate
+opencv-python
+Pillow
+transformers
+numpy
+
